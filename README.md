@@ -1,6 +1,6 @@
 # Clustering-LSI
-Clustering and Latent Semantic Indexing using Singular Value Decomposition on Reuters and MovieLens Datasets
-
+Clustering and Latent Semantic Indexing using Singular Value Decomposition on Reuters and MovieLens Datasets.
+Please read Clustering-LSI Report for details and plots.
 
 
 February, 2015
