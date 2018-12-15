@@ -7,7 +7,7 @@ February, 2015
 Illinois Institute of Technology, Chicago
 
 
-Please read Clustering-LSI Report for details and plots.
+Please read Clustering-LSI Report for full details and plots.
 
 
 
